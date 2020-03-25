@@ -14,10 +14,7 @@ let package = Package(
         .target(name: "PZMarkdown", dependencies: ["Ccmark"]),
         .systemLibrary(
           name: "Ccmark",
-          pkgConfig: "libcmark",
-          providers: [
-            .brew(["commonmark"])
-          ]),
+        pkgConfig: "libcmark"),
         .testTarget(name: "PZMarkdownTests", dependencies: ["PZMarkdown"]),
     ]
 )
