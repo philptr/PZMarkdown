@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CommonMark::CommonMark"
-               BuildableName = "CommonMark.framework"
+               BlueprintIdentifier = "178DED72242BA6A80054080F"
+               BuildableName = "PZMarkdown.framework"
                BlueprintName = "PZMarkdown"
                ReferencedContainer = "container:PZMarkdown.xcodeproj">
             </BuildableReference>
@@ -53,8 +53,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CommonMark::CommonMark"
-            BuildableName = "CommonMark.framework"
+            BlueprintIdentifier = "178DED72242BA6A80054080F"
+            BuildableName = "PZMarkdown.framework"
             BlueprintName = "PZMarkdown"
             ReferencedContainer = "container:PZMarkdown.xcodeproj">
          </BuildableReference>
