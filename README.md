@@ -1,4 +1,4 @@
-# commonmark-swift
+# PZMarkdown
 
 A Swift wrapper around [cmark](http://github.com/commonmark/cmark/).
 
